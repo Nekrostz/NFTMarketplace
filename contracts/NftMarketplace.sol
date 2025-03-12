@@ -168,3 +168,4 @@ contract NftMarketplace is ReentrancyGuard {
         return s_proceeds[seller];
     }
 }
+
